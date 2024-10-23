@@ -126,8 +126,10 @@ ORDER BY year ASC
 SELECT 
     u.country,
     COUNT(distinct o.user_id) AS totalUsers,
-    ROUND(SUM(o.sale_price), 2)  AS salesRevenue
-    FROM order_items o
+    ROUND(SUM(o.sale_price), 2)  AS salesRevenue,
+    ROUND((SUM(o.sale_price)/(SELECT SUM(sale_price)  AS salesRevenue
+            FROM order_items WHERE status ='Complete'))*100, 2) AS 'totalRevenuePercentatge(%)'
+FROM order_items o
 JOIN users u ON u.id=o.user_id
 WHERE o.status ='Complete' 
 GROUP BY u.country
