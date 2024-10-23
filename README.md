@@ -349,6 +349,31 @@ ORDER BY yr ASC
 ```
 
 ## Key findings
+- Sales
+There were a huge increase of revenue year after year with for example 252% increase between 2019-2020. Also there wwas a great decrease of 84% between 2023  and 2024; that was normal because there is only one month of activity in 2024.
+- Profit
+In terms of profit, analysis showed that gross profit(revenue less Costs of goods sold) was constant(around 51%) year after year despite a huge increase of Revenue
+- Categories and products
+Analysis showed that : 
+1. category Outerwears and coasts drives the most sales Revenue 
+2. category intimates drives Sales in terms of volume or quantity sold
+3. Blazers & Jackets drives the most Gross profit 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Recommendations
+
 
 
 
