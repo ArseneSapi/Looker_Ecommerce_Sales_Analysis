@@ -354,26 +354,15 @@ ORDER BY yr ASC
 - Sales
 There were a huge increase of revenue year after year with for example 252% increase between 2019-2020. Also there wwas a great decrease of 84% between 2023  and 2024; that was normal because there is only one month of activity in 2024.
 - Profit
-In terms of profit, analysis showed that gross profit(revenue less Costs of goods sold) was constant(around 51%) year after year despite a huge increase of Revenue
+In terms of profit, analysis showed that gross profit margin(revenue less Costs of goods sold) was constant(around 51%) year after year despite a huge increase of Revenue
 - Categories and products
-Analysis showed that : 
-1. category Outerwears and coasts drives the most sales Revenue 
-2. category intimates drives Sales in terms of volume or quantity sold
-3. Blazers & Jackets drives the most Gross profit
-4. 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Analysis showed that : category Outerwears and coasts(12.14%) and Jeans(11.58%) drive the most sales Revenue(24%) while  Blazers & Jackets are most profitable (62.26% of profit margin) and category intimates for women are category are most selling Items
+Customer average order was between $86 and $95 from 2019 to 2024
+China and USA are countries that drive aroud 55% of total sales revenue
+88% of customers left (CHURN) after their first purchase
+Conversion rate of users session into orders is around 5.9% for all chanel(search, Organic, Facebook etc..) 
+Cancelation rate after making orders is between 11% and 14.75% for all chanel(search, Organic, Facebook etc..) 
+Return rate after making orders is between 7% and 10.55% for all chanel(search, Organic, Facebook etc..) 
 
 ## Recommendations
 
