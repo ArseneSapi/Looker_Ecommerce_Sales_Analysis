@@ -102,7 +102,9 @@ FROM monthlyRevenue
 ```sql
 SELECT 
     p.category as category,
-    ROUND(SUM(o.sale_price), 2)  AS Revenue
+    ROUND(SUM(o.sale_price), 2)  AS Revenue,
+    ROUND((SUM(o.sale_price)/(SELECT SUM(sale_price) 
+            FROM order_items WHERE status ='Complete'))*100, 2) AS 'totalRevenuePercentatge(%)'
 FROM order_items o
 JOIN products p ON p.id=o.product_id
 WHERE o.status ='Complete' 
@@ -357,7 +359,8 @@ In terms of profit, analysis showed that gross profit(revenue less Costs of good
 Analysis showed that : 
 1. category Outerwears and coasts drives the most sales Revenue 
 2. category intimates drives Sales in terms of volume or quantity sold
-3. Blazers & Jackets drives the most Gross profit 
+3. Blazers & Jackets drives the most Gross profit
+4. 
 
 
 
