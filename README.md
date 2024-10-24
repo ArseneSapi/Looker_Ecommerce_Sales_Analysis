@@ -351,14 +351,14 @@ ORDER BY yr ASC
 ```
 
 ## Key findings
-Sales There was a significant increase in revenue year over year, with a 252% rise between 2019 and 2020. Conversely, there was an 84% decrease between 2023 and 2024, which is expected given there was only one month of activity in 2024.
-Profit Despite the substantial revenue increase, the analysis revealed that the gross profit margin (revenue less costs of goods sold) remained steady at around 51% year over year.
-Categories and Products The analysis highlighted that the categories 'Outerwears and Coats' (12.14%) and 'Jeans' (11.58%) generated the highest sales revenue (24%), while 'Blazers & Jackets' were the most profitable with a 62.26% profit margin. The 'Intimates for Women' category emerged as the best-selling items.
-Customer average order value ranged between $86 and $95 from 2019 to 2024. 
-China and the USA accounted for approximately 55% of total sales revenue.
-88% of customers churned after their first purchase. 
-The conversion rate of user sessions into orders was about 5.9% across all channels (search, organic, Facebook, etc.).
-Cancellation rates after placing orders ranged between 11% and 14.75% across all channels, while return rates post-orders ranged from 7% to 10.55%.
+- Sales There was a significant increase in revenue year over year, with a 252% rise between 2019 and 2020. Conversely, there was an 84% decrease between 2023 and 2024, which is expected given there was only one month of activity in 2024.
+- Profit Despite the substantial revenue increase, the analysis revealed that the gross profit margin (revenue less costs of goods sold) remained steady at around 51% year over year.
+- Categories and Products The analysis highlighted that the categories 'Outerwears and Coats' (12.14%) and 'Jeans' (11.58%) generated the highest sales revenue (24%), while 'Blazers & Jackets' were the most profitable with a 62.26% profit margin. The 'Intimates for Women' category emerged as the best-selling items.
+- Customer average order value ranged between $86 and $95 from 2019 to 2024. 
+- China and the USA accounted for approximately 55% of total sales revenue.
+- 88% of customers churned after their first purchase. 
+- The conversion rate of user sessions into orders was about 5.9% across all channels (search, organic, Facebook, etc.).
+- Cancellation rates after placing orders ranged between 11% and 14.75% across all channels, while return rates post-orders ranged from 7% to 10.55%.
 
 
 
