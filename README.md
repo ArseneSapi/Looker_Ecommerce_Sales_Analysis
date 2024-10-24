@@ -360,21 +360,20 @@ ORDER BY yr ASC
 - The conversion rate of user sessions into orders was about 5.9% across all channels (search, organic, Facebook, etc.).
 - Cancellation rates after placing orders ranged between 11% and 14.75% across all channels, while return rates post-orders ranged from 7% to 10.55%.
 
-
-
 ## Recommendations
 
-1. Address Customer Churn: With 88% of customers not returning after their first purchase, consider implementing a customer retention strategy. This could include loyalty programs, personalized marketing, or follow-up emails to encourage repeat business.
+1. Address Customer Churn: 
+With 88% of customers not returning after their first purchase, consider implementing a customer retention strategy. This could include loyalty programs(reward points after certain amount of purshases), personalized marketing(gift after certains amount of purchases), or follow-up emails to encourage repeat business.
 
 2. Optimize Product Offerings: Focus on expanding the high-performing categories, like 'Outerwears and Coats' and 'Jeans', which drive the most revenue. Additionally, highlight the 'Blazers & Jackets' category, given its high profit margin, in marketing campaigns.
 
-3. Increase Customer Engagement: Since the average order value is relatively high, explore strategies to increase order frequency. This could be achieved through targeted promotions, discounts for repeat purchases, or bundling products.
+3. Increase Customer Engagement: Average order value is relatively high. Furthermore, explore strategies to increase order frequency will be profitable. This could be achieved through targeted promotions, discounts for repeat purchases, or bundling products.
 
-4. Reduce Cancellation and Return Rates: Analyze the reasons behind high cancellation and return rates. Improving product descriptions, images, and customer reviews can help set better expectations and reduce the likelihood of returns.
+4. Reduce Cancellation and Return Rates: Reasons behind high cancellation and return rates should be analyzed. Improving product descriptions, images, and customer reviews can help set better expectations and reduce the likelihood of returns.
 
-5. Leverage High-Revenue Regions: With China and the USA accounting for the majority of sales, consider tailoring marketing efforts and special promotions to these markets to maximize sales.
+5. Leverage High-Revenue Countries: With China and the USA accounting for the majority of sales, consider tailoring marketing efforts and special promotions to these markets to maximize sales.
 
-6. Enhance User Experience Across Channels: With a conversion rate of 5.9%, there’s room for improvement. Optimize your website and other sales channels for a seamless user experience. Implement A/B testing to identify and address any friction points in the customer journey.
+6. Enhance User Experience Across Channels: With a conversion rate of 5.9%, there’s room for improvement. Optimize website and sales channels for a seamless user experience. Implement A/B testing to identify and address any friction points in the customer journey.
 
 7. Monitor Profit Margins: Despite revenue increases, maintaining a constant gross profit margin means that costs are also rising. Look for opportunities to streamline operations and reduce costs to improve overall profitability.
 
